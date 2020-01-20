@@ -1,0 +1,2 @@
+# gomycode-test
+test
